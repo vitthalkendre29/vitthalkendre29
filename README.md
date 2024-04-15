@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kendrevitthal225@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like to explore new frameworks and libraries
+- ⚡ Fun fact: I like to explore new frameworks and libraries.
 
 <!---
 vitthalkendre29/vitthalkendre29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
