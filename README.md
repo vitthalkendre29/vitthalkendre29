@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitthalkendre29
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning Second Year
+- 🌱 I’m currently learning final year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kendrevitthal225@gmail.com
 - 😄 Pronouns: ...
